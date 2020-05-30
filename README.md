@@ -14,7 +14,7 @@ Hi, there. Welcome to my Github Repository of all my projects. I shared all the 
 
 * ### -2- Matching Puzzle Game Android App
 > [View its Repository](https://github.com/ZhangZiboMono/AndroidApp-MatchingPuzzleGame)<br>
-> [View a short video of this App on YouTube](https://youtu.be/s4bnUfAoRMo)<br>
+> [View a short video of this App on YouTube](https://youtu.be/kHon3w3cOEI)<br>
 > Screenshot<br>
 > <img src="https://github.com/ZhangZiboMono/AndroidApp-MatchingPuzzleGame/blob/master/readme-gif.gif" height="300px" alt="demo gif">
 
